@@ -1,1 +1,1 @@
-# NIME-Mini-Project
+# New Interfaces for Musical Expression Mini Project
