@@ -22,10 +22,16 @@ To create an instrument with a focus on defining a new interface for muscial exp
 
 ## Interactions
 ### Buttons (from button to top)
-First three rows are dedicaded triggers for chords. Each button are assigned to a specific chord in a selected scale starting from the root note for the scale. The chords expand two octaves as default from C3-B3. So the following image will show how the default setup if no modifications has been made.
+First three rows are dedicaded triggers for chords. Each button are assigned to a specific chord in a selected scale starting from the root note for the scale. The chords expand two octaves as default from C3-B3. The following image will show how the default setup if no modifications has been made.
 
 <p align="center">
   <img width="400" heigh="350" src="https://github.com/ThaDuyx/NIME-Mini-Project/blob/main/Assets/padDescription.png?raw=true"/>
+</p>
+
+The top taps are the modifiers that can be used to change the scale or set the chords to major/minor. These is shown on the following image
+
+<p align="center">
+  <img width="400" heigh="350" src="https://github.com/ThaDuyx/NIME-Mini-Project/blob/main/Assets/topPads.png?raw=true"/>
 </p>
 
 ### Rotators (from left to right)
