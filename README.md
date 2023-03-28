@@ -2,6 +2,10 @@
 
 ![alt text](https://github.com/ThaDuyx/NIME-Mini-Project/blob/main/Assets/NIME.jpeg)
 
+<p align="center">
+  <img width="600" height="200" src="[https://www.python.org/python-.png](https://github.com/ThaDuyx/NIME-Mini-Project/blob/main/Assets/NIME.jpeg)">
+</p>
+
 # Purpose of the project
 To create an instrument with a focus on defining a new interface for muscial expression. 
 
