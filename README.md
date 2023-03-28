@@ -1,9 +1,9 @@
-# EasyChords
-> A New Interfaces for Musical Expression (NIME) Project
-
 <p align="center">
   <img width="250" heigh="200" src="https://github.com/ThaDuyx/NIME-Mini-Project/blob/main/Assets/NIME.jpeg?raw=true" />
 </p>
+
+# EasyChords
+> A New Interfaces for Musical Expression (NIME) Project
 
 ## Purpose of the project
 To create an instrument with a focus on defining a new interface for muscial expression. 
