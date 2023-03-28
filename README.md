@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" heigh="200" src="https://github.com/ThaDuyx/NIME-Mini-Project/blob/main/Assets/NIME.jpeg?raw=true" />
+  <img width="200" heigh="150" src="https://github.com/ThaDuyx/NIME-Mini-Project/blob/main/Assets/NIME.jpeg?raw=true" />
 </p>
 
 # EasyChords
