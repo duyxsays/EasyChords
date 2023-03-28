@@ -9,13 +9,14 @@
 To create an instrument with a focus on defining a new interface for muscial expression. 
 
 ## Tools
-- Coded in Teensyduino
-- 3D printer
-
-## Hardware
+### Software
+- Teensyduino
+### Hardware
 - Teensy 4.1
 - Adafruit Trellis Monochrome Driver PCB for 4x4 Keypad & 3mm LEDs
 - 4 x Potentiometers
+### Other
+- 3D printer
 
 ## Interactions
 ### Buttons (from button to top)
