@@ -1,8 +1,9 @@
 # New Interfaces for Musical Expression Mini Project
 
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com](https://github.com/ThaDuyx/NIME-Mini-Project/blob/main/Assets/NIME.jpeg/460/300">
+  <img width="460" height="300" src="https://github.com/ThaDuyx/NIME-Mini-Project/blob/main/Assets/NIME.jpeg/460/300">
 </p>
+
 ![alt text](https://github.com/ThaDuyx/NIME-Mini-Project/blob/main/Assets/NIME.jpeg)
 
 # Purpose of the project
