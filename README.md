@@ -35,4 +35,4 @@ First three rows are dedicaded triggers for chords. Each button are assigned to 
 
 ## Creators
 - [Emil Sønderskov Hansen](https://github.com/esha1995)
-- Simon Andersen
+- [Simon Andersen](https://github.com/ThaDuyx)
