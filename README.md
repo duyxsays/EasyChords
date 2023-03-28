@@ -15,5 +15,5 @@ To create an instrument with a focus on defining a new interface for muscial exp
 - 4 x Potentiometers
 
 # Creators
-- Emil Sønderskov Hansen & Simon Andersen
- 
+- Emil Sønderskov Hansen
+- Simon Andersen
