@@ -1,4 +1,5 @@
-# New Interfaces for Musical Expression Mini Project
+# NIME Mini Project
+## New Interfaces for Musical Expression
 
 <p align="center">
   <img src="https://github.com/ThaDuyx/NIME-Mini-Project/blob/main/Assets/NIME.jpeg?raw=true" />
