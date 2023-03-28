@@ -1,5 +1,5 @@
-# NIME Mini Project
-## New Interfaces for Musical Expression
+# EazyChords
+## A New Interfaces for Musical Expression Mini Project
 
 <p align="center">
   <img src="https://github.com/ThaDuyx/NIME-Mini-Project/blob/main/Assets/NIME.jpeg?raw=true" />
