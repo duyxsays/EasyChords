@@ -7,6 +7,7 @@ To create an instrument with a focus on defining a new interface for muscial exp
 
 # Tools
 - Coded in Teensyduino
+- 3d printer
 
 # Hardware
 - Teensy 4.1
