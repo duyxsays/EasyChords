@@ -1,7 +1,5 @@
 # New Interfaces for Musical Expression Mini Project
 
-![alt text](https://github.com/ThaDuyx/NIME-Mini-Project/blob/main/Assets/NIME.jpeg)
-
 <p align="center">
   <img src="https://github.com/ThaDuyx/NIME-Mini-Project/blob/main/Assets/NIME.jpeg?raw=true" />
 </p>
