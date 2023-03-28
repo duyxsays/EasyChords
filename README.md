@@ -3,7 +3,7 @@
 ![alt text](https://github.com/ThaDuyx/NIME-Mini-Project/blob/main/Assets/NIME.jpeg)
 
 <p align="center">
-  <img width="600" height="200" src="[https://www.python.org/python-.png](https://github.com/ThaDuyx/NIME-Mini-Project/blob/main/Assets/NIME.jpeg)">
+  <img src="https://www.python.org/python-.png](https://github.com/ThaDuyx/NIME-Mini-Project/blob/main/Assets/NIME.jpeg?raw=true">
 </p>
 
 # Purpose of the project
