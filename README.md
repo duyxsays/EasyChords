@@ -17,6 +17,12 @@ To create an instrument with a focus on defining a new interface for muscial exp
 - Adafruit Trellis Monochrome Driver PCB for 4x4 Keypad & 3mm LEDs
 - 4 x Potentiometers
 
+## Interactions
+### Buttons
+
+### Rotators
+
+
 ## Creators
 - Emil Sønderskov Hansen
 - Simon Andersen
