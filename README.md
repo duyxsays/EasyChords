@@ -1,4 +1,4 @@
-# EazyChords
+# EasyChords
 ## A New Interfaces for Musical Expression Mini Project
 
 <p align="center">
