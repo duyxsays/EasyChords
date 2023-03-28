@@ -2,7 +2,7 @@
 > A New Interfaces for Musical Expression Mini Project
 
 <p align="center">
-  <img src="https://github.com/ThaDuyx/NIME-Mini-Project/blob/main/Assets/NIME.jpeg?raw=true" />
+  <img width="150" heigh="100" src="https://github.com/ThaDuyx/NIME-Mini-Project/blob/main/Assets/NIME.jpeg?raw=true" />
 </p>
 
 ## Purpose of the project
