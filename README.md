@@ -17,8 +17,7 @@ To create an instrument with a focus on defining a new interface for muscial exp
 - [Teensy 4.1](https://www.pjrc.com/store/teensy41.html)
 - [Adafruit Trellis Monochrome Driver PCB for 4x4 Keypad & 3mm LEDs](https://www.adafruit.com/product/1616)
 - 4 x Potentiometers
-### Other
-- 3D printer
+- [UltiMaker S5 3D printer](https://ultimaker.com/3d-printers/ultimaker-s5)
 
 ## Interactions
 ### Buttons (from button to top)
