@@ -18,6 +18,7 @@ To create an instrument with a focus on defining a new interface for muscial exp
 - [Adafruit Trellis Monochrome Driver PCB for 4x4 Keypad & 3mm LEDs](https://www.adafruit.com/product/1616)
 - [Audio adapter board](https://www.pjrc.com/store/teensy3_audio.html)
 - 4 x Potentiometers
+- 4 x 10k Ohm resistors
 ### Hardware
 - [UltiMaker S5 3D printer](https://ultimaker.com/3d-printers/ultimaker-s5)
 
