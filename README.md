@@ -41,7 +41,7 @@ The top taps are the modifiers that can be used to change the scale or set the c
 3. Octave specifier
 4. MIDI Control
 
-### Curcuit
+### Circuit
 <p align="center">
   <img width="400" heigh="350" src="https://github.com/ThaDuyx/NIME-Mini-Project/blob/main/Assets/Curcuit.png?raw=true"/>
 </p>
