@@ -13,10 +13,11 @@ To create an instrument with a focus on defining a new interface for muscial exp
 - [Teensyduino IDE](https://www.pjrc.com/teensy/teensyduino.html)
 - [Ultimaker-Cura](https://ultimaker.com/software/ultimaker-cura)
 - [Blender](https://www.blender.org/download/)
-### Hardware
+### Components
 - [Teensy 4.1](https://www.pjrc.com/store/teensy41.html)
 - [Adafruit Trellis Monochrome Driver PCB for 4x4 Keypad & 3mm LEDs](https://www.adafruit.com/product/1616)
 - 4 x Potentiometers
+### Hardware
 - [UltiMaker S5 3D printer](https://ultimaker.com/3d-printers/ultimaker-s5)
 
 ## Interactions
